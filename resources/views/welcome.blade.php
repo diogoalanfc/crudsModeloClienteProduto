@@ -12,8 +12,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #A5A5A5;
-                color: #636b6f;
+                background-color: lightseagreen;
+                color: lightseagreen;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
@@ -45,11 +45,11 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 90px;
             }
 
             .links > a {
-                color: #636b6f;
+                color: pink;
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
@@ -81,14 +81,14 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md" style="color: #000">
-                    Empresa
+                <div class="title m-b-md" style="color: blue" >
+                    CASA DOS MÓVEIS E ELETRÔNICOS
                 </div>
 
                 <div class="links">
-                    <a href="http://localhost:8000/categoria" style="color: #155724">Categorias</a>
-                    <a href="http://localhost:8000/cliente" style="color: #155724">Clientes</a>
-                    <a href="http://localhost:8000/produto" style="color: #155724">Produtos</a>                                      
+                    <a href="http://localhost:8000/categoria" style="color: yellow">Categorias</a>
+                    <a href="http://localhost:8000/cliente" style="color: yellow">Clientes</a>
+                    <a href="http://localhost:8000/produto" style="color: yellow">Produtos</a>                                      
                     
                 </div>
             </div>
